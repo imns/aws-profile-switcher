@@ -1,0 +1,22 @@
+{
+  "name": "aws-profiles-menubar",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "npx electron .",
+    "package": "electron-packager . --overwrite --platform=darwin --arch=x64 --icon=assets/iam-icon.icns --prune=true --out=release-builds"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^14.0.1",
+    "electron-packager": "^15.4.0",
+    "electron-reload": "^2.0.0-alpha.1"
+  },
+  "dependencies": {
+    "ini": "^2.0.0",
+    "menubar": "^9.0.5"
+  }
+}
