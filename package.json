@@ -17,6 +17,6 @@
   },
   "dependencies": {
     "ini": "^2.0.0",
-    "menubar": "^9.0.5"
+    "menubar": "^9.1.0"
   }
 }
