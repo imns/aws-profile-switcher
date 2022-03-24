@@ -11,7 +11,7 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "electron": "^16.0.5",
+    "electron": "^16.1.1",
     "electron-packager": "^15.4.0",
     "electron-reload": "^2.0.0-alpha.1"
   },
